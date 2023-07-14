@@ -15,7 +15,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  * @author kuldeep
  */
 public class FileUploadTest {
-
+    //Test file size
     private WebDriver driver;
     @BeforeAll
     public static void setupBeforeAll() {
